@@ -1,6 +1,6 @@
 # COVID-19 Exploratory Data Analysis (EDA) 🌍📊
 
-![COVID-19 Analysis](assets/covid_analysis_thumbnail.png)
+![Image](https://github.com/user-attachments/assets/bd6ab0e5-fe14-4504-8488-d668635e9343)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -72,7 +72,7 @@ Before you begin, ensure you have installed the following:
 ## Setup
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/covid-19-eda.git
+git clone https://github.com/1wahab/covid-19-eda.git
 cd covid-19-eda
 ```
 
