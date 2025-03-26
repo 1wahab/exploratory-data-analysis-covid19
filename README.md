@@ -101,7 +101,7 @@ The processed data files in the `data/processed` directory were generated from t
 
 ## Visualizations
 ### Top 10 Countries by Death Ratio
-![Death Ratio](assets/top_10_death_ratio.png)
+![Image](https://github.com/user-attachments/assets/65a68b29-4a5a-490b-b6d5-d5e80d738050)
 
 ### Confirmed Cases and Deaths by Province/State in Australia
 ![Australia Province Trends](assets/australia_province_trends.png)
