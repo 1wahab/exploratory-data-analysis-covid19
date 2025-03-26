@@ -1,0 +1,7 @@
+EDA of Covid 19 Dataset
+Yo boys this is your task for today, I have shared you the dataset of covid 19 you have to perform EDA over this, feel free to use pandas and matplotlib. Please follow along the following points
+
+Countries with respect to Deaths ratio
+A specific country's province with respect to death and recovery (you can pick any country)
+Check the trend between confirmed cases with deaths(Country base and province based)
+Check the trend between time and confirmed cases recoveries and deaths (Country Based)

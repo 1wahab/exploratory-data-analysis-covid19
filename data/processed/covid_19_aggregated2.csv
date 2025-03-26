@@ -1,0 +1,79 @@
+Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
+Australia,Australian Capital Territory,13174,339,11264,1571
+Australia,New South Wales,384636,5055,269428,110153
+Australia,Northern Territory,3537,0,2794,743
+Australia,Queensland,129172,694,106911,21567
+Australia,South Australia,54273,440,45793,8040
+Australia,Tasmania,25262,1328,19980,3954
+Australia,Victoria,279524,2526,195925,81073
+Australia,Western Australia,70669,1005,59833,9831
+Canada,Alberta,751219,14245,0,736974
+Canada,British Columbia,298207,16752,0,281455
+Canada,Manitoba,35148,746,0,34402
+Canada,New Brunswick,16711,99,0,16612
+Canada,Newfoundland and Labrador,31030,339,0,30691
+Canada,Northwest Territories,585,0,0,585
+Canada,Nova Scotia,110330,5394,0,104936
+Canada,Ontario,3100515,226791,0,2873724
+Canada,Prince Edward Island,3404,1,0,3403
+Canada,Quebec,4934478,434065,0,4500413
+Canada,Saskatchewan,73648,1134,0,72514
+Canada,Yukon,1276,0,0,1276
+China,Anhui,172497,1007,155768,15722
+China,Beijing,108512,1383,83847,23282
+China,Chongqing,101756,1013,90135,10608
+China,Fujian,59855,159,52936,6760
+China,Gansu,23786,341,21163,2282
+China,Guangdong,268051,1273,237110,29668
+China,Guangxi,44368,336,38927,5105
+China,Guizhou,25341,335,22672,2334
+China,Hainan,29584,993,25930,2661
+China,Hebei,56848,1000,0,55848
+China,Heilongjiang,131961,2196,111670,18095
+China,Henan,222581,3628,0,218953
+China,Hong Kong,151541,814,113725,37002
+China,Hubei,11473248,651932,9387518,1433798
+China,Hunan,178641,662,162439,15540
+China,Inner Mongolia,29781,147,24713,4921
+China,Jiangsu,112469,0,102367,10102
+China,Jiangxi,162963,169,147655,15139
+China,Jilin,21375,245,18901,2229
+China,Liaoning,25295,297,21865,3133
+China,Macau,6217,0,4853,1364
+China,Ningxia,12932,0,12026,906
+China,Qinghai,3215,0,2984,231
+China,Shaanxi,49821,430,43805,5586
+China,Shandong,132944,1103,118227,13614
+China,Shanghai,100089,983,86680,12426
+China,Shanxi,30441,0,27088,3353
+China,Sichuan,98075,507,86306,11262
+China,Tianjin,30533,508,26932,3093
+China,Tibet,180,0,167,13
+China,Xinjiang,14160,474,11280,2406
+China,Yunnan,32118,319,28400,3399
+China,Zhejiang,220824,159,198777,21888
+Denmark,Faroe Islands,23897,0,21424,2473
+France,French Guiana,226554,994,123808,101752
+France,French Polynesia,7213,0,5634,1579
+France,Guadeloupe,20423,1495,14289,4639
+France,Martinique,25039,1530,10189,13320
+France,Mayotte,189436,2403,149661,37372
+France,New Caledonia,2435,0,1971,464
+France,Reunion,57863,124,42885,14854
+France,Saint Barthelemy,793,0,640,153
+France,Saint Pierre and Miquelon,154,0,78,76
+France,St Martin,4807,330,3457,1020
+Greenland,Greenland,1507,0,1372,135
+Netherlands,Aruba,12090,289,9629,2172
+Netherlands,Curacao,2381,131,1823,427
+Netherlands,Sint Maarten,8536,1566,5515,1455
+United Kingdom,Anguilla,361,0,290,71
+United Kingdom,Bermuda,14548,885,10650,3013
+United Kingdom,British Virgin Islands,815,100,605,110
+United Kingdom,Cayman Islands,15888,134,10920,4834
+United Kingdom,Channel Islands,63326,4579,48080,10667
+United Kingdom,Falkland Islands (Malvinas),1383,0,1257,126
+United Kingdom,Gibraltar,18999,0,17306,1693
+United Kingdom,Isle of Man,36872,2323,31037,3512
+United Kingdom,Montserrat,1309,95,864,350
+United Kingdom,Turks and Caicos Islands,2989,142,1093,1754

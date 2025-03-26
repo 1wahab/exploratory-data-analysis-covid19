@@ -1,0 +1,65 @@
+# Python specific
+*.pyc
+__pycache__/
+*.egg-info
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+pipenv/
+.pyenv/
+pythonenv/
+virtualenv/
+.*/env/ # for all hidden directories
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb_backup
+*.ipynb_autosave
+
+
+# Environment files
+requirements.txt
+Pipfile
+Pipfile.lock
+poetry.lock
+conda-environment.yml
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.pydeve.ws
+
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+
+# Other
+__init__.py
+*.html
+*.css
+*.js
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.otf
