@@ -104,10 +104,10 @@ The processed data files in the `data/processed` directory were generated from t
 ![Image](https://github.com/user-attachments/assets/65a68b29-4a5a-490b-b6d5-d5e80d738050)
 
 ### Confirmed Cases and Deaths by Province/State in Australia
-![Australia Province Trends](assets/australia_province_trends.png)
+![Image](https://github.com/user-attachments/assets/4ad71d8e-ab81-47d3-bbe4-5a3a7c0c9cd1)
 
 ### COVID-19 Trends Over Time
-![Time Series Trends](assets/time_series_trends.png)
+![Image](https://github.com/user-attachments/assets/ef5d37df-deb0-4365-83c5-b348e4b16e69)
 
 ## Analysis Insights
 1. **Death Ratio Variation**: Countries exhibit significant variation in death ratios, likely due to differences in healthcare systems, population demographics, and reporting practices.
