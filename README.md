@@ -129,3 +129,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Data source: [Original Data Provider]
 - Inspiration from various COVID-19 analysis projects
 - The open-source community for providing valuable tools and libraries
+
+##Credits
+- **Data Source:** Johns Hopkins University CSSE COVID-19 Dataset
+- **Tools:** Python, pandas, matplotlib, Jupyter Notebook
+- **Inspiration:** Standard EDA practices and COVID-19 research papers
+- *[XENONSTACK](https://www.xenonstack.com/glossary/exploratory-data-analysis)* - Banner image sourced from their site.
